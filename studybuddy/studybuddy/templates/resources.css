@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(153, 168, 223);
+    width: 100%;
+    height: 100vh;
+}
+.course-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 500px;
+    gap: 10px;
+    
+}
+.course{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
